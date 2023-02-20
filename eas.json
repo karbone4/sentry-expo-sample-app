@@ -9,10 +9,7 @@
     },
     "preview": {
       "android": {
-        "gradleCommand": ":app:assembleRelease"
-      },
-      "ios": {
-        "simulator": true
+        "buildType": "apk"
       }
     },
     "production": {}
